@@ -3,11 +3,11 @@
 #West Coast: 11:00 EST 3/10 -> 11:00 EST 3/11 <br>
 #Lab Creation and setup <br>
 #ONGOING <br>
-# Reports:
+# Reports: <br>
 
-Day One Report [Report](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Certifications_.pdf)
-* [Complete Portfolio in one file](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Complete%20Networking%20Portfolio%20Brennen%20Tse.docx)
-
+#AWS Honeypot [Configuration](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Configuration%20Lab.pdf) 
+Day One [Report  (PDF Version)](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Day%201%20Observations%20PDF%20Version.pdf)
+* [Word Version](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/Day%201%20Observations.docx)
 
 
 Open Source Intelligence
