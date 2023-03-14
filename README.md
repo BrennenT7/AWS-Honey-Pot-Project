@@ -9,7 +9,7 @@ AWS Honeypot [Configuration](https://github.com/BrennenT7/AWS-Honey-Pot-Project/
 
 
 
-**Day One [Report  (PDF Version)](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Day%201%20Observations%20PDF%20Version.pdf)
+**Day One [Report  (PDF Version)](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Day%201%20Observations%20PDF%20Version.pdf)**
 * [Word Version](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/Day%201%20Observations.docx)
 
 
