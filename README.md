@@ -19,5 +19,3 @@ AWS Honeypot [Configuration](https://github.com/BrennenT7/AWS-Honey-Pot-Project/
 ![image](https://user-images.githubusercontent.com/74690601/224519801-a76d082d-08ef-429e-8c75-de56ab340bc6.png)
 
 
-https://user-images.githubusercontent.com/74690601/225178601-61c5b40c-dac9-4e8c-b192-9ab5542a6dae.mp4
-
