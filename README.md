@@ -19,6 +19,4 @@ AWS Honeypot [Configuration](https://github.com/BrennenT7/AWS-Honey-Pot-Project/
 ![image](https://user-images.githubusercontent.com/74690601/224519801-a76d082d-08ef-429e-8c75-de56ab340bc6.png)
 
 Realtime Map View of nmap -sS (Stealth) scan: 
-https://user-images.githubusercontent.com/74690601/225178833-bc95d6a6-d07a-40b9-a9ad-0319364fa439.mov
-
 
