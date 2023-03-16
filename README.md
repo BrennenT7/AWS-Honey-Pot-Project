@@ -5,7 +5,7 @@
 #ONGOING <br>
 # Reports: <br>
 
-AWS Honeypot [Configuration](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Configuration%20Lab.pdf)(Thanks to Glen D Singh for the help) <br>
+AWS Honeypot [Configuration](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Configuration%20Lab.pdf) (Thanks to Glen D Singh for the help) <br>
 
 
 
