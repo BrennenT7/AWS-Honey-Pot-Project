@@ -1,5 +1,5 @@
 # AWS-Honey-Pot-Project
-#East Coast: 22:00 EST 3/9 -> 22:00 EST 3/10 <br>
+#East Coast: 22:00 EST 3/9 -> 22:00 EST 4/3 <br>
 #West Coast: 11:00 EST 3/10 -> 11:00 EST 3/11 <br>
 #Lab Creation and setup <br>
 #Exceeded costs, AWS Honeypot shutdown <br>
