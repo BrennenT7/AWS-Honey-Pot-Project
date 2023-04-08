@@ -2,7 +2,7 @@
 #East Coast: 22:00 EST 3/9 -> 22:00 EST 3/10 <br>
 #West Coast: 11:00 EST 3/10 -> 11:00 EST 3/11 <br>
 #Lab Creation and setup <br>
-#ONGOING <br>
+#Exceeded costs, AWS Honeypot shutdown <br>
 # Reports: <br>
 
 AWS Honeypot [Configuration](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Configuration%20Lab.pdf) (Thanks to Glen D Singh for the inspo) <br>
