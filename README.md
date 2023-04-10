@@ -2,7 +2,7 @@
 #East Coast: 22:00 EST 3/9 -> 22:00 EST 4/3 <br>
 #West Coast: 11:00 EST 3/10 -> 11:00 EST 3/11 <br>
 #Lab Creation and setup <br>
-#Exceeded costs 200+, AWS Honeypot shutdown. Lasted about 3 weeks, currently working on documentation <br>
+#Exceeded costs 200+, AWS Honeypot shutdown. Lasted about 3 weeks, currently working on documentation also detected virus <br>
 # Reports: <br>
 
 AWS Honeypot [Configuration](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Configuration%20Lab.pdf) (Thanks to Glen D Singh for the inspo) <br>
