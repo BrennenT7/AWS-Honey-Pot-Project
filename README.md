@@ -13,7 +13,7 @@ AWS Honeypot [Configuration](https://github.com/BrennenT7/AWS-Honey-Pot-Project/
 * [Word Version](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Day%201%20Observations%20(Word).docx)<br>
 
 
-**Day Two-Three [Reports(Weekend)](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Day%202-3%20Observations%20(Weekend).pdf)**<br>
+**Day Two-Three [Weekend Report  (PDF Version)](https://github.com/BrennenT7/AWS-Honey-Pot-Project/blob/main/AWS%20Honeypot%20Day%202-3%20Observations%20(Weekend).pdf)**<br>
 * [Word Version]()<br>
 # Day Five-Twelve
  * Websites/Resources
